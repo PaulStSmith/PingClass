@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="PingTest.PingClass">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>class\PingClass.vb</FileName>
+      <HashCode>AAAAgAAgIQAAMAIACEABBAACKAAEAAABAAIQQAAAEAY=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="__BufferHeaderSize" Hidden="true" />
+      <Field Name="__DataSize" Hidden="true" />
+      <Field Name="__Error" Hidden="true" />
+      <Field Name="__Identifier" Hidden="true" />
+      <Field Name="__LocalHost" Hidden="true" />
+      <Field Name="__RemoteHost" Hidden="true" />
+      <Field Name="__Sequence" Hidden="true" />
+      <Field Name="__TimeOut" Hidden="true" />
+      <Method Name="CreateChecksum" Hidden="true" />
+      <Method Name="DoAsyncPing" Hidden="true" />
+      <Field Name="ICMP_ECHO" Hidden="true" />
+      <Field Name="PING_ERROR" Hidden="true" />
+      <Field Name="PING_ERROR_BASE" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="PingTest.PingClass.pingErrorCodes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>class\PingClass.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="PingTest.PingClass.PingAsyncResult">
+        <TypeIdentifier>
+          <NewMemberFileName>class\PingClass.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="PingTest.PingClass.PingAsyncRequest">
+        <TypeIdentifier>
+          <NewMemberFileName>class\PingClass.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Delegate Name="PingTest.PingClass.PingCallback">
+        <TypeIdentifier>
+          <NewMemberFileName>class\PingClass.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+  </Class>
+</ClassDiagram>
