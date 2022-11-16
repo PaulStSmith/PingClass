@@ -174,10 +174,10 @@ Public Overloads Sub SetRemoteHost( _
 <H2>Background information</H2>
 <P>Always a good source of information about the Internet is the &quot;Request For Comments&quot;. More specifically about ping and ping request are: </P>
 <DL>
-    <DT><A href="ftp://ftp.rfc-editor.org/in-notes/rfc792.txt" shape="rect"><LI class="download">&nbsp; RFC 792</LI></A></DT>
+    <DT><A href="http://rfc-editor.org/in-notes/rfc792.txt" shape="rect"><LI class="download">RFC 792</LI></A></DT>
     <DD>Internet Control Message Protocol.</DD>
-    <DT><A href="ftp://ftp.rfc-editor.org/in-notes/rfc1122.txt" shape="rect"><LI class="download">&nbsp; RFC 1122</LI></A></DT>
+    <DT><A href="http://rfc-editor.org/in-notes/rfc1122.txt" shape="rect"><LI class="download">RFC 1122</LI></A></DT>
     <DD>Requirements for Internet Hosts -- Communication Layers.</DD>
-    <DT><A href="ftp://ftp.rfc-editor.org/in-notes/rfc1812.txt" shape="rect"><LI class="download">&nbsp; RFC 1812</LI></A></DT>
+    <DT><A href="http://rfc-editor.org/in-notes/rfc1812.txt" shape="rect"><LI class="download">RFC 1812</LI></A></DT>
     <DD>Requirements for IP Version 4 Routers.</DD>
 </DL>
